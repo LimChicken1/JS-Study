@@ -1,0 +1,14 @@
+
+.alert-box {
+  background-color: skyblue;
+  padding: 20px;
+  color: white;
+  border-radius: 5px;
+  display: none;
+  margin-bottom: 20px;
+}
+
+button {
+  width: 50px;
+  height: 50px;
+}
